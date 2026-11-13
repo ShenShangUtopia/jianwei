@@ -1,0 +1,5 @@
+# 绿色版构建产物不入库（单文件超 100MB，见 README）
+*.exe
+*.msi
+dist/
+build/
